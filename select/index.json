@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "さよなら、光",
+  "base_artist": "未来古代楽団",
+  "createdAt": "2026-02-14T07:16:49.246342Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "さよなら、光 (feat. PUP)",
+      "artist": "未来古代楽団",
+      "has_synced": false,
+      "path": "select/pl_01_さよなら、光_(feat._PUP)_未来古代楽団.txt"
+    }
+  ]
+}
